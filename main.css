@@ -1,0 +1,30 @@
+body {
+  font-family: "new century schoolbook";
+}
+
+.home {
+  color:blue;
+  -webkit-transition: color .25s ease-in;
+}
+
+.home:hover {
+  color:red;
+}
+
+.about {
+  color:blue;
+  -webkit-transition: color .25s ease-in;
+}
+
+.about:hover {
+  color:red;
+}
+
+.contact {
+  color:blue;
+  -webkit-transition: color .25s ease-in;
+}
+
+.contact:hover {
+  color:red;
+}
